@@ -1,0 +1,9 @@
+#IDE directories and files
+.idea/
+.out/
+MergeVisualization.iml
+
+#Class files
+ArrayBox.class
+ArrayGraphics.class
+MergeVisualization.class
